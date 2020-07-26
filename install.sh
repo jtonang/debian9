@@ -13,12 +13,12 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 
 # company name details
 country=ID
-state=JandaBaper
-locality=JandaBaper
-organization=JandaBaper
-organizationalunit=JandaBaper
-commonname=JandaBaper
-email=jandabaper09@gmail.com
+state=Jakarta
+locality=Bandung
+organization=SshPremium
+organizationalunit=SshMurah
+commonname=10K
+email=fjrjtn1@gmail.com
 
 # configure rc.local
 cat <<EOF >/etc/rc.local
